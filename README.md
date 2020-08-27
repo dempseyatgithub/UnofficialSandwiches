@@ -30,4 +30,8 @@ The app and materials are tested as of Big Sur beta 5 and Xcode 12 beta 5 to be 
 
 Although the app is a cross-platform project, the session video focuses on iOS. The app will build, run, and largely behave as expected on macOS, but there seem to be some cosmetic issues on BigSur beta 5.
 
+⚠️ **Xcode beta 6 Issue**  
+In Xcode beta 6, the Sandwiches app does not behave correctly in Preview mode or the simulator. The 'Add' button in the toolbar does not appear and the List of sandwiches does not appear as expected.
+
+⚠️ **No Localized Resources**  
 At present, _UnofficialSandwiches_ does not include localized resources as seen near the end of the session video.
