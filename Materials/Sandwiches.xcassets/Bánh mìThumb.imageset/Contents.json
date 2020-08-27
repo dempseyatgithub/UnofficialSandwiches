@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Bánh mìThumb.jpg",
+      "filename" : "Banh miThumb.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Bánh mìThumb@2x.jpg",
+      "filename" : "Banh miThumb@2x.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Bánh mìThumb@3x.jpg",
+      "filename" : "Banh miThumb@3x.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }
